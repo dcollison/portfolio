@@ -1,4 +1,4 @@
-### [GitHub Profile](https://github.com/dcollison) | [LinkedIn](https://www.linkedin.com/in/dale-collison-9217bb126/)
+### [GitHub](https://github.com/dcollison) | [LinkedIn](https://www.linkedin.com/in/dale-collison-9217bb126/)
 
 # About Me
 
