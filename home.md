@@ -1,8 +1,9 @@
 ### [GitHub](https://github.com/dcollison) | [LinkedIn](https://www.linkedin.com/in/dale-collison-9217bb126/) | [Stack Overflow](https://stackoverflow.com/users/19602888/dale-collison)
 
 # About Me
+I'm Dale, a Systems Engineer turned Software Engineer working in the Aerospace Defence industry in the UK.
 
-# Projects
+# Personal Projects
 
 | Year | Project | Description |
 | ---- | -------- | ----------- |
