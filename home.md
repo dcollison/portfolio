@@ -1,4 +1,4 @@
-### [GitHub](https://github.com/dcollison) | [LinkedIn](https://www.linkedin.com/in/dale-collison-9217bb126/)
+### [GitHub](https://github.com/dcollison) | [LinkedIn](https://www.linkedin.com/in/dale-collison-9217bb126/) | [Stack Overflow](https://stackexchange.com/users/25872204/dale-collison)
 
 # About Me
 
