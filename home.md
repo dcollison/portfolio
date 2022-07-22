@@ -1,3 +1,5 @@
+# Dale Collison, Portfolio
+
 ### [GitHub](https://github.com/dcollison) | [LinkedIn](https://www.linkedin.com/in/dale-collison-9217bb126/) | [Stack Overflow](https://stackoverflow.com/users/19602888/dale-collison)
 
 # About Me
